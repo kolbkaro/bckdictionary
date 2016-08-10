@@ -1,0 +1,2 @@
+# bckdictionary
+Dictionary app copycat
